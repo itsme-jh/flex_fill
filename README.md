@@ -12,7 +12,7 @@ width：每个元素的宽度
 
 ## 解决问题
 
-也可以用[grid布局](https://www.jianshu.com/p/3762f214cd6f)
+也可以用[grid布局](https://www.jianshu.com/p/3762f214cd6f){:target="_blank"}
 
 
 
